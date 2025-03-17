@@ -7,4 +7,4 @@ A Shiny web application designed to streamline and accelerate the analysis of ne
 - **Interactive Tables & Visualisations**: Easily interpret results and extract EC50s.
 
 ## 🚀 Demo  
-[Live Demo]([YOUR_DEMO_LINK_HERE](https://mb02.shinyapps.io/NeutralisationAnalyser2/?fbclid=IwAR38xwfjopTflSbKS2LYBYOvHg7tO4gBicwOdcEgw6SskC1M4F5hQqUoiY0))  
+[Live Demo](https://mb02.shinyapps.io/NeutralisationAnalyser2/?fbclid=IwAR38xwfjopTflSbKS2LYBYOvHg7tO4gBicwOdcEgw6SskC1M4F5hQqUoiY0)
